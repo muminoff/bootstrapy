@@ -2,7 +2,7 @@
 bootstrapy
 ==========
 
-https://drone.io/github.com/muminoff/bootstrapy/status.png
+.. image:: https://drone.io/github.com/muminoff/bootstrapy/status.png
 
 
 A bootstrap application that takes away the pain of setting up a python application for production and lets you focus on coding instead.
